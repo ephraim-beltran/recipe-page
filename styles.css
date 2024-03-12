@@ -125,6 +125,7 @@ main {
 }
 .recipe-nutritional th {
     padding-left: 2em;
+    width: 50%;
 }
 .recipe-nutritional td {
     font-weight: 600;
