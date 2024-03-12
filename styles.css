@@ -25,13 +25,11 @@ body {
 h2,
 h3 {
     font-family: 'Young Serif', serif;
-    font-weight: 600;
 }
 h2 {
     color: var(--dark-charcoal);
 }
 h3 {
-    font-weight: 700;
     font-size: 1.75rem;
     color: var(--dark-raspberry);
 }
